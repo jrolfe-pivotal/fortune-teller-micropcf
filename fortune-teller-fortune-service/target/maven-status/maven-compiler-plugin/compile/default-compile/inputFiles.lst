@@ -1,0 +1,4 @@
+/Users/jrolfe/Documents/dev/git/sampleapps/fortune-teller-standalone/fortune-teller-fortune-service/src/main/java/io/spring/cloud/samples/fortuneteller/fortuneservice/domain/Fortune.java
+/Users/jrolfe/Documents/dev/git/sampleapps/fortune-teller-standalone/fortune-teller-fortune-service/src/main/java/io/spring/cloud/samples/fortuneteller/fortuneservice/controllers/FortuneController.java
+/Users/jrolfe/Documents/dev/git/sampleapps/fortune-teller-standalone/fortune-teller-fortune-service/src/main/java/io/spring/cloud/samples/fortuneteller/fortuneservice/respositories/FortuneRepository.java
+/Users/jrolfe/Documents/dev/git/sampleapps/fortune-teller-standalone/fortune-teller-fortune-service/src/main/java/io/spring/cloud/samples/fortuneteller/fortuneservice/Application.java
